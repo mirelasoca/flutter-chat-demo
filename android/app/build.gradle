@@ -33,10 +33,10 @@ android {
 
     signingConfigs {
         debug {
-            keyAlias 'KeyAlias'
-            keyPassword 'android'
-            storeFile file("keystore/chatdebug.keystore")
-            storePassword 'android'
+            keyAlias 'mhive'
+            keyPassword 'musichive9567'
+            storeFile file("keystore")
+            storePassword 'musichive9567'
         }
     }
 
